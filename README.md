@@ -1,4 +1,4 @@
-# **Projeto: Dashboard em Excel**
+# **Projeto: Dashboard de Vendas (Excel)**
 
 ## **Stack**
 Excel
